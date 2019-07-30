@@ -38,7 +38,7 @@ This is a simple wrapper for [rbenv](https://github.com/rbenv/rbenv) style envir
 1. Clone anyenv into `~/.anyenv`.
 
   ```
-  $ git clone https://github.com/anyenv/anyenv ~/.anyenv
+  $ git clone https://github.com/tanaka-yui/anyenv ~/.anyenv
   ```
     
 2. Add `~/.anyenv/bin` to your `$PATH` for access to the `anyenv` command-line utility.
